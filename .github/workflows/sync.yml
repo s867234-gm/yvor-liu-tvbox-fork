@@ -33,7 +33,7 @@ jobs:
       - name: Download zip
         run: |
           ZIP_NAME="缘起【天神IY】.zip"
-          URL="https://gitee.com/cpu-iy/iy/raw/master/$ZIP_NAME"
+          URL="https://raw.githubusercontent.com/IY-CPU/IY/main/$ZIP_NAME"
           
           for i in {1..5}; do
             # 新增 -f 参数: 遇到 404 等错误直接报错，不保存错误网页
