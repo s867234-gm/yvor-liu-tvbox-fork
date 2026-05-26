@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "🌐配置中心｜5.25版",
+      "name": "🌐配置中心｜5.26版",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -150,13 +150,6 @@
         "cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png"
       },
       "timeout": 10
-    },
-    {
-      "key": "橘子py",
-      "name": "♨️橘子｜4K线路",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jd4k.py",
-      "ext": "https://dmc.yy-fun.cc/feiapp"
     },
     {
       "key": "首发",
@@ -450,6 +443,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
+    },
+    {
+      "key": "xgsp",
+      "name": "🌀西瓜｜1920",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/xgsp.js"
     },
     {
       "name": "🌀柠檬｜1920",
@@ -1096,6 +1095,12 @@
       "filterable": 1
     },
     {
+      "key": "听了么",
+      "name": "📻听歌｜音乐",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/tlm.js"
+    },
+    {
       "key": "88看球",
       "name": "📺看球｜点播",
       "type": 3,
@@ -1107,7 +1112,7 @@
     },
     {
       "key": "spider_2054142177793019904",
-      "name": "📺抖音｜点播",
+      "name": "📺抖音｜点播1",
       "type": 4,
       "api": "http://115.191.55.109:7023/api/tvbox/source/2054142177793019904?token=phcB9KDg6dzm8lNH5uG67q5BXdf0X3dR",
       "searchable": 1,
@@ -1115,6 +1120,14 @@
       "filterable": 1,
       "changeable": 0,
       "playable": 1
+    },
+    {
+      "key": "DouyinLive",
+      "name": "📺抖音｜点播2",
+      "type": 4,
+      "api": "http://box.52xiaobai.cn/video/DouyinLive?token=50721480be241243",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "name": "📺虎牙｜点播",
