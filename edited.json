@@ -88,7 +88,7 @@
       "delete": true
     },
     {
-      "key": "spider_2054142177793019904",
+      "key": "网络直播",
       "name": "📺抖音｜点播",
       "type": 4,
       "api": "http://115.191.55.109:7023/api/tvbox/source/2054142177793019904?token=phcB9KDg6dzm8lNH5uG67q5BXdf0X3dR",
@@ -100,10 +100,6 @@
     },
     {
       "key": "DouyinLive",
-      "delete": true
-    },
-    {
-      "key": "网络直播",
       "delete": true
     },
     {
