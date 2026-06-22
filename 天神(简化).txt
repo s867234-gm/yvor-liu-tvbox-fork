@@ -47,17 +47,6 @@
       }
     },
     {
-      "name": "🎬星星｜短剧",
-      "key": "星星｜短剧",
-      "type": 3,
-      "api": "csp_XydjAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm2.png"
-    },
-    {
       "key": "多多",
       "name": "🌐多多｜4K自扫",
       "type": 3,
