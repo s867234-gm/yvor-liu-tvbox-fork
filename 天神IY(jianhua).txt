@@ -48,19 +48,19 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/douban.png"
     },
     {
-      "key": "玩偶哥哥",
-      "name": "🌐玩偶｜4K自扫",
+      "key": "多多",
+      "name": "🌐多多｜4K自扫",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.wogg.net",
-          "https://wogg.xxooo.cf",
-          "https://woggpan.xxooo.cf"
+          "https://tv.yydsys.top",
+          "https://tv.yydsys.cc",
+          "https://tv.214521.xyz"
         ]
       }
     },
