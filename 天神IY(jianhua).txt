@@ -32,20 +32,41 @@
       "playerType": 2
     }
   ],
-
   "sites": [
     {
-      "name": "🚀豆瓣｜嗷呜弹幕｜搜索自启",
-      "key": "GoConfig",
+      "key": "版本信息",
+      "name": "🌹天神｜小屋(点这里或首页或主页可切换站源)",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
-      "api": "csp_GoConfigAmns",
-      "indexs": 1,
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 1,
+      "api": "csp_Market",
+      "searchable": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/douban.png"
+      "indexs": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/天神小屋.png"
+    },
+    {
+      "key": "豆瓣",
+      "name": "🔥豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
+      "key": "弹幕",
+      "name": "🚀虎斑弹幕配置",
+      "type": 3,
+      "api": "csp_Huban",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hbdm.png"
+    },
+    {
+      "key": "lf_live10_min",
+      "name": "📺天神｜AI点播",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/lf_live10_min-output.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yszb.png"
     },
     {
       "key": "首发",
@@ -58,6 +79,39 @@
         "init": "V122",
         "api": 2,
         "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "咕噜",
+      "name": "♨️咕噜丨4K线路",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://103.45.132.22:19987/app/bn",
+        "LoginPath": "/app/log",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.9.5",
+        "name": "咕噜咕噜",
+        "package": "com.bd.tool.gulu",
+        "buildNumber": "2001",
+        "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
+      }
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "🌐玩偶｜4K自扫",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.wogg.net",
+          "https://wogg.xxooo.cf",
+          "https://woggpan.xxooo.cf"
+        ]
       }
     },
     {
@@ -79,7 +133,7 @@
     },
     {
       "key": "配置中心",
-      "name": "🌐配置中心｜6.17版",
+      "name": "🌐配置中心｜6.29版",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
