@@ -20,6 +20,54 @@
       "searchable": 0
     },
     {
+      "key": "动漫天堂",
+      "name": "♨️漫堂｜4K线路",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/500.txt",
+        "key": "1vi33w2pAHEm8Y6U",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "秒看",
+      "name": "♨️秒看｜4K线路",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://mk1080.top/",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "b008fad37a80ead49addf97984b154387fddd3fe42a81a79671281b6082bcd80"
+      }
+    },
+    {
+      "key": "爱营",
+      "name": "♨️爱影｜4K线路",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
+        "key": "nzEqOgYk3QzHuEP8",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      },
+      "categories": [
+        "动漫",
+        "电视剧",
+        "电影",
+        "综艺",
+        "短剧",
+        "体育",
+        "少儿",
+        "纪录片"
+      ]
+    },
+    {
       "key": "首发",
       "name": "♨️首发｜4K线路",
       "type": 3,
