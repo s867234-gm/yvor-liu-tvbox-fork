@@ -16,31 +16,9 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-    },
-    {
-      "name": "无意云空间",
-      "type": 0,
-      "url": "https://ym.wya6.cn/dszb/bf",
-      "ua": "okhttp/3.15",
-      "timeout": 10,
-      "playerType": 2,
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
     }
   ],
   "sites": [
-    {
-      "key": "配置中心",
-      "name": "🌐配置中心｜7.03版",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
     {
       "name": "🚀豆瓣｜小白弹幕｜搜索自启",
       "key": "弹幕",
@@ -59,6 +37,19 @@
           "https://dm.abai.ccwu.cc/abai|0弹幕源8"
         ],
         "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yins.png"
+      }
+    },
+    {
+      "key": "配置中心",
+      "name": "🌐配置中心｜7.03版",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
       }
     },
     {
@@ -98,6 +89,23 @@
       }
     },
     {
+      "key": "多多",
+      "name": "🌐多多｜4K自扫",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://tv.yydsys.top",
+          "https://tv.yydsys.cc",
+          "https://tv.214521.xyz"
+        ]
+      }
+    },
+    {
       "key": "动漫天堂",
       "name": "♨️漫堂｜4K线路",
       "type": 3,
@@ -118,40 +126,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "🌐玩偶｜4K自扫",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.wogg.net",
-          "https://wogg.xxooo.cf",
-          "https://woggpan.xxooo.cf"
-        ]
-      }
-    },
-    {
-      "key": "多多",
-      "name": "🌐多多｜4K自扫",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
-        ]
-      }
     },
     {
       "key": "养生堂",
