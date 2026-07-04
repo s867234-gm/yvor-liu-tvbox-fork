@@ -9,63 +9,57 @@
       "type": 0,
       "playerType": 2,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ds.png"
+    },
+    {
+      "name": "测试2",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+    {
+      "name": "无意云空间",
+      "type": 0,
+      "url": "https://ym.wya6.cn/dszb/bf",
+      "ua": "okhttp/3.15",
+      "timeout": 10,
+      "playerType": 2,
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
     }
   ],
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "🔥豆瓣",
+      "key": "配置中心",
+      "name": "🌐配置中心｜7.03版",
       "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "动漫天堂",
-      "name": "♨️漫堂｜4K线路",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/500.txt",
-        "key": "1vi33w2pAHEm8Y6U",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
       }
     },
     {
-      "key": "秒看",
-      "name": "♨️秒看｜4K线路",
+      "name": "🚀豆瓣｜小白弹幕｜搜索自启",
+      "key": "弹幕",
       "type": 3,
-      "api": "csp_AppGet",
+      "api": "csp_SecureDanmu",
+      "index": 1,
       "ext": {
-        "url": "https://mk1080.top/",
-        "dataKey": "c60d88b2eep53za8",
-        "dataIv": "c60d88b2eep53za8",
-        "token": "b008fad37a80ead49addf97984b154387fddd3fe42a81a79671281b6082bcd80"
+        "apiUrls": [
+          "https://logvar-danmu.rinrin.top/87654321|0弹幕源1",
+          "https://logvar-danmu.rinrin.top|0弹幕源2",
+          "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|3弹幕源3",
+          "https://justdanmu.irisnb.com/iris-danmu|0弹幕源4",
+          "https://danmu.qianting168.com/456765847636987622146901|3弹幕源5",
+          "https://dm.ljiaovm.com/luosen|3弹幕源6",
+          "https://danm.lubao2.de5.net/87654321|3弹幕源7",
+          "https://dm.abai.ccwu.cc/abai|0弹幕源8"
+        ],
+        "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yins.png"
       }
-    },
-    {
-      "key": "爱营",
-      "name": "♨️爱影｜4K线路",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
-        "key": "nzEqOgYk3QzHuEP8",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      },
-      "categories": [
-        "动漫",
-        "电视剧",
-        "电影",
-        "综艺",
-        "短剧",
-        "体育",
-        "少儿",
-        "纪录片"
-      ]
     },
     {
       "key": "首发",
@@ -78,23 +72,6 @@
         "init": "V122",
         "api": 2,
         "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "🌐玩偶｜4K自扫",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.wogg.net",
-          "https://wogg.xxooo.cf",
-          "https://woggpan.xxooo.cf"
-        ]
       }
     },
     {
@@ -112,19 +89,6 @@
           "https://tv.yydsys.cc",
           "https://tv.214521.xyz"
         ]
-      }
-    },
-    {
-      "key": "配置中心",
-      "name": "🌐配置中心｜6.29版",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
       }
     }
   ]
