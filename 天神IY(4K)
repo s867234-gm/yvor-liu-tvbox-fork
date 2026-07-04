@@ -79,6 +79,30 @@
       }
     },
     {
+      "key": "IY音乐台",
+      "name": "📻IY音乐台｜爱上音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/iyyy.png"
+      }
+    },
+    {
+      "key": "lf_live10_min",
+      "name": "📺天神｜AI点播",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/lf_live10_min-output.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yszb.png"
+    },
+    {
       "key": "JD",
       "name": "❤JD｜4K测试",
       "type": 3,
