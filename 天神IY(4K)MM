@@ -29,19 +29,6 @@
   ],
   "sites": [
     {
-      "key": "配置中心",
-      "name": "🌐配置中心｜7.03版",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "name": "🚀豆瓣｜小白弹幕｜搜索自启",
       "key": "弹幕",
       "type": 3,
@@ -59,6 +46,19 @@
           "https://dm.abai.ccwu.cc/abai|0弹幕源8"
         ],
         "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yins.png"
+      }
+    },
+    {
+      "key": "配置中心",
+      "name": "🌐配置中心｜7.03版",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
       }
     },
     {
