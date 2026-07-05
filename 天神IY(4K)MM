@@ -62,16 +62,44 @@
       }
     },
     {
-      "key": "首发",
-      "name": "♨️首发｜4K线路",
+      "key": "爱营",
+      "name": "♨️爱影｜4K线路",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
       "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt",
-        "key": "FTgP4Gq8zPiqbt7M",
+        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
+        "key": "nzEqOgYk3QzHuEP8",
         "init": "V122",
         "api": 2,
         "ua": "okhttp/3.10.0"
+      },
+      "categories": [
+        "动漫",
+        "电视剧",
+        "电影",
+        "综艺",
+        "短剧",
+        "体育",
+        "少儿",
+        "纪录片"
+      ]
+    },
+    {
+      "key": "二小",
+      "name": "🌐二小｜4K自扫",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://2xiaopan.fun ",
+          "https://www.erxiaozhan.top",
+          "https://www.2xiaozhan.top",
+          "https://wexwp.cc"
+        ]
       }
     },
     {
