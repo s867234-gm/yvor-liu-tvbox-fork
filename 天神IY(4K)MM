@@ -138,7 +138,7 @@
     },
     {
       "key": "养生堂",
-      "name": "📚养生｜知识",
+      "name": "📚养生堂",
       "type": 3,
       "api": "csp_YST",
       "searchable": 0,
