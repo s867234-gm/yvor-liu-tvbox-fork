@@ -76,19 +76,6 @@
       ]
     },
     {
-      "key": "首发",
-      "name": "♨️首发｜4K线路",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt",
-        "key": "FTgP4Gq8zPiqbt7M",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "玩偶哥哥",
       "name": "🌐玩偶｜4K自扫",
       "type": 3,
@@ -106,8 +93,8 @@
       }
     },
     {
-      "key": "多多",
-      "name": "🌐多多｜4K自扫",
+      "key": "二小",
+      "name": "🌐二小｜4K自扫",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -116,9 +103,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
+          "https://2xiaopan.fun ",
+          "https://www.erxiaozhan.top",
+          "https://www.2xiaozhan.top",
+          "https://wexwp.cc"
         ]
       }
     },
