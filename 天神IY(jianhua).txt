@@ -16,31 +16,9 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-    },
-    {
-      "name": "无意云空间",
-      "type": 0,
-      "url": "https://ym.wya6.cn/dszb/bf",
-      "ua": "okhttp/3.15",
-      "timeout": 10,
-      "playerType": 2,
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
     }
   ],
   "sites": [
-    {
-      "key": "配置中心",
-      "name": "🌐配置中心｜7.03版",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
     {
       "name": "🚀豆瓣｜小白弹幕｜搜索自启",
       "key": "弹幕",
@@ -62,21 +40,67 @@
       }
     },
     {
-      "key": "首发",
-      "name": "♨️首发｜4K线路",
+      "key": "配置中心",
+      "name": "🌐配置中心｜7.03版",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt",
-        "key": "FTgP4Gq8zPiqbt7M",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
       }
     },
     {
-      "key": "多多",
-      "name": "🌐多多｜4K自扫",
+      "key": "爱营",
+      "name": "♨️爱影｜4K线路",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
+        "key": "nzEqOgYk3QzHuEP8",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      },
+      "categories": [
+        "动漫",
+        "电视剧",
+        "电影",
+        "综艺",
+        "短剧",
+        "体育",
+        "少儿",
+        "纪录片"
+      ]
+    },
+    {
+      "key": "三秋影视",
+      "name": "♨️三秋｜4K线路",
+      "type": 3,
+      "api": "csp_App3Q"
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "🌐玩偶｜4K自扫",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.wogg.net",
+          "https://wogg.xxooo.cf",
+          "https://woggpan.xxooo.cf"
+        ]
+      }
+    },
+    {
+      "key": "二小",
+      "name": "🌐二小｜4K自扫",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -85,9 +109,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
+          "https://2xiaopan.fun ",
+          "https://www.erxiaozhan.top",
+          "https://www.2xiaozhan.top",
+          "https://wexwp.cc"
         ]
       }
     }
