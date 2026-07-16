@@ -809,17 +809,22 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/电影港.png"
     },
     {
-      "key": "88看球",
+      "key": "瓜子体育",
       "name": "📺看球｜点播",
       "type": 3,
-      "api": "csp_Kanqiu",
-      "gridview": 3,
+      "api": "csp_SportKaFeiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
       "style": {
         "type": "list"
-      }
+      },
+      "jar": "https://nos.netease.com/ysf/724bddb2e44dc7582708cb9115f0e6e9.jar;md5;5d06887f0bd6e14e98a1ca63e556b4c7",
+      "ext": "https://9280.kstore.space/newwex.json"
     },
     {
-      "key": "网络直播",
+      "key": "88看球",
       "name": "📺抖音｜点播",
       "type": 4,
       "api": "http://115.191.55.109:7023/api/tvbox/source/2054142177793019904?token=phcB9KDg6dzm8lNH5uG67q5BXdf0X3dR",
@@ -828,6 +833,12 @@
       "filterable": 1,
       "changeable": 0,
       "playable": 1
+    },
+    {
+      "key": "网络直播",
+      "name": "📺网络｜点播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/网络直播.py"
     },
     {
       "key": "哔哩直播",
