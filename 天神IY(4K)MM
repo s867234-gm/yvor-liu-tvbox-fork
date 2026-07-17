@@ -38,14 +38,21 @@
   ],
   "sites": [
     {
-      "key": "版本信息",
-      "name": "🌹天神｜小屋(点这里或首页或主页可切换站源)",
+      "name": "🚀豆瓣｜小白弹幕｜搜索自启",
+      "key": "弹幕",
       "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/天神小屋.png"
+      "api": "csp_SecureDanmu",
+      "index": 1,
+      "ext": {
+        "apiUrls": [
+          "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|3弹幕源1",
+          "https://danmu.qianting168.com/456765847636987622146901|3弹幕源2",
+          "https://dm.ljiaovm.com/luosen|3弹幕源3",
+          "https://danm.lubao2.de5.net/87654321|3弹幕源4",
+          "https://justdanmu.irisnb.com/iris-danmu|0弹幕源5"
+        ],
+        "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yins.png"
+      }
     },
     {
       "key": "配置中心",
