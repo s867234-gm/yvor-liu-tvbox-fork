@@ -3,6 +3,7 @@
   "wallpaper": "https://wp.upx8.com/api.php",
   "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/logo.png",
   "warningText": "天神IY：资源来自网络，无盈利纯搬运分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
+  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "lives": [
     {
       "name": "测试1",
@@ -13,35 +14,42 @@
     {
       "name": "测试2",
       "type": 0,
+      "playerType": 1,
+      "url": "http://183.131.83.37:40782/屿风眠星辞雾听澜书禾念安知夏遇秋寻冬观月.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://tvapius.chenfengtv.com/api/diyp.php?ch={name}&date={date}"
+    },
+    {
+      "name": "测试3",
+      "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+    {
+      "name": "无意云空间",
+      "type": 0,
+      "url": "https://ym.wya6.cn/dszb/bf",
+      "ua": "okhttp/3.15",
+      "timeout": 10,
+      "playerType": 2,
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
     }
   ],
   "sites": [
     {
-      "name": "🚀豆瓣｜小白弹幕｜搜索自启",
-      "key": "弹幕",
+      "key": "版本信息",
+      "name": "🌹天神｜小屋(点这里或首页或主页可切换站源)",
       "type": 3,
-      "api": "csp_SecureDanmu",
-      "index": 1,
-      "ext": {
-        "apiUrls": [
-          "https://logvar-danmu.rinrin.top/87654321|0弹幕源1",
-          "https://logvar-danmu.rinrin.top|0弹幕源2",
-          "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|3弹幕源3",
-          "https://justdanmu.irisnb.com/iris-danmu|0弹幕源4",
-          "https://danmu.qianting168.com/456765847636987622146901|3弹幕源5",
-          "https://dm.ljiaovm.com/luosen|3弹幕源6",
-          "https://danm.lubao2.de5.net/87654321|3弹幕源7",
-          "https://dm.abai.ccwu.cc/abai|0弹幕源8"
-        ],
-        "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yins.png"
-      }
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/天神小屋.png"
     },
     {
       "key": "配置中心",
-      "name": "🌐配置中心｜7.03版",
+      "name": "🌐配置中心｜7.17版",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
