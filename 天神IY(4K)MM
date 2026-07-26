@@ -111,6 +111,23 @@
       }
     },
     {
+      "key": "枫叶影视",
+      "name": "♨️枫叶2｜4K线路",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "手机",
+        "简介": "text cor3\">[*],&&</div>",
+        "图片": "data-src=\"&&\"[替换:amp;>>空]",
+        "主页url": "https://www.cd-zj.com/label/qq.html",
+        "副标题": "ft2\">&&</i>",
+        "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
+        "播放数组": "anthology-list-play size\">&&</ul>",
+        "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+      }
+    },
+    {
       "key": "玩偶哥哥",
       "name": "🌐玩偶｜4K自扫",
       "type": 3,
@@ -124,6 +141,23 @@
           "https://www.wogg.net",
           "https://wogg.xxooo.cf",
           "https://woggpan.xxooo.cf"
+        ]
+      }
+    },
+    {
+      "key": "至臻",
+      "name": "🌐至臻｜4K自扫",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://mihdr.top",
+          "https://www.miqk.cc",
+          "https://www.mihdr.top"
         ]
       }
     },
