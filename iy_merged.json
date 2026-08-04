@@ -903,8 +903,7 @@
       "api": "csp_KafLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
+      "changeable": 0,
       "jar": "https://nos.netease.com/ysf/5796b487b7b641255c855359718d6315.png;md5;94a90ec5cc3fc4c3d2ae1421a9cb2d38",
       "ext": "https://9763.kstore.vip/aowu.json"
     },
