@@ -9,7 +9,7 @@
       "name": "测试1",
       "type": 0,
       "playerType": 2,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ds.png"
+      "url": "https://d.kstore.dev/download/14505/ds.png"
     },
     {
       "name": "测试2",
@@ -49,7 +49,7 @@
     },
     {
       "key": "配置中心",
-      "name": "🌐配置中心｜8.03版",
+      "name": "🌐配置中心｜8.17版",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -57,7 +57,7 @@
       "indexs": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.618
       }
     },
     {
@@ -109,52 +109,16 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yszb.png"
     },
     {
-      "key": "映视界",
-      "name": "❤视界｜4K秒挂",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/映视界?platform=ysc&token=688988"
-    },
-    {
-      "key": "木偶1",
-      "name": "❤木偶｜4K秒挂",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/mogg?platform=ysc&token=688988"
-    },
-    {
-      "key": "玩偶1",
-      "name": "❤玩偶｜4K秒挂",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/wogg?platform=ysc&token=688988"
-    },
-    {
-      "key": "讴歌1",
-      "name": "❤讴歌｜4K秒挂",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/ouge?platform=ysc&token=688988"
-    },
-    {
-      "key": "虎斑1",
-      "name": "❤虎斑｜4K秒挂",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/huban?platform=ysc&token=688988"
-    },
-    {
-      "key": "CO4K",
-      "name": "❤咖啡｜4K测试",
-      "type": 4,
-      "api": "http://8.134.205.252:39466/pz/co4k.php/api.php/provide/vod/?ac=list"
-    },
-    {
-      "key": "不错",
-      "name": "❤不错｜4K线路",
+      "key": "世界",
+      "name": "❤️世界｜4K线路",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "url": "https://appcmszbc.zbc4k.app",
-        "dataKey": "pYrEkiWRYhBLTUTC",
-        "dataIv": "pYrEkiWRYhBLTUTC"
+        "url": "https://appcms.4ksj.app",
+        "dataKey": "O3K6rYx75Q4xtiIE",
+        "dataIv": "O3K6rYx75Q4xtiIE"
       }
     },
     {
@@ -172,19 +136,18 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
     },
     {
-      "key": "马猴影视",
-      "name": "♨️ACE｜4K线路",
+      "key": "半日99",
+      "name": "♨️半日｜4K线路",
       "type": 3,
-      "api": "csp_App3Q",
+      "api": "csp_App99",
       "ext": {
-        "host": "https://45.150.167.18:8000",
-        "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
-        "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.damahou.tv",
-        "sk": "SK-woniu-thanks",
-        "ver": "1"
+        "host": "http://103.217.190.91:19987/app/bn",
+        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       }
     },
     {
@@ -194,31 +157,8 @@
       "api": "csp_PianKu8"
     },
     {
-      "key": "爱营",
-      "name": "♨️爱影｜4K线路",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt",
-        "key": "0UKM8jkasM8tdzgW",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      },
-      "categories": [
-        "动漫",
-        "电视剧",
-        "电影",
-        "综艺",
-        "短剧",
-        "体育",
-        "少儿",
-        "纪录片"
-      ]
-    },
-    {
-      "key": "星河",
-      "name": "♨️星河｜4K线路",
+      "key": "怀桑",
+      "name": "♨️怀桑｜4K线路",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
       "ext": {
@@ -230,23 +170,16 @@
       }
     },
     {
-      "key": "皮皮虾",
-      "name": "♨️皮虾｜4K秒挂",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/皮皮虾?platform=ysc&token=688988"
+      "key": "多多",
+      "name": "♨️多多｜4K线路",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py"
     },
     {
-      "key": "秒看",
-      "name": "♨️秒看｜4K线路",
+      "key": "漫闪",
+      "name": "♨️漫闪｜4K线路",
       "type": 3,
-      "api": "csp_AppGet",
-      "playerType": 2,
-      "ext": {
-        "url": "https://mk1080.top/",
-        "dataKey": "c60d88b2eep53za8",
-        "dataIv": "c60d88b2eep53za8",
-        "token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c"
-      }
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ms.py"
     },
     {
       "key": "橘汁",
@@ -259,12 +192,12 @@
       "ext": {
         "appName": "橘汁",
         "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+        "dataKey": "OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.lxf.snzlcgtzxyx",
+        "pkg": "com.mxj.wylcjbxyx",
         "host": "",
         "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "3.0.2.1",
+        "version": "3.0.2.3",
         "decrypt": "1"
       }
     },
@@ -294,16 +227,58 @@
         "副标题": "ft2\">&&</i>",
         "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
         "播放数组": "anthology-list-play size\">&&</ul>",
-        "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+        "分类url": "https://www.cd-zj.com/label/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "腾讯$qq#B站$bli#优酷$youku#电影$1#电视剧$2#综艺$3#动漫$4#热门短剧$5"
       }
+    },
+    {
+      "key": "剧圈",
+      "name": "♨️剧圈｜4K线路",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key": "高清点播",
+      "name": "♨️高清｜4K线路",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/gq.js"
+    },
+    {
+      "key": "蓝鹰",
+      "name": "♨️蓝鹰｜4K线路",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://103.217.190.91:5566",
+        "dataKey": "hagYExMdMkeWfemK",
+        "dataIv": "hagYExMdMkeWfemK",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "云朵",
+      "name": "♨️云朵｜4K线路",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yd.py"
     },
     {
       "key": "歪比巴卜",
       "name": "♨️巴卜｜4K线路",
       "type": 3,
       "playerType": 2,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yb.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yb.py"
     },
     {
       "key": "瓜子影视",
@@ -319,48 +294,32 @@
       "ext": "http://43.248.117.123:4680"
     },
     {
+      "key": "妙看",
+      "name": "🌀妙看｜1920",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/4kvms.py"
+    },
+    {
       "key": "个影",
       "name": "🌀个影｜1920",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/gy.js"
     },
     {
-      "key": "三秋影视",
-      "name": "🌀三秋｜1920",
+      "key": "马猴影视",
+      "name": "🌀马猴｜1920",
       "type": 3,
       "api": "csp_App3Q",
       "ext": {
-        "host": "https://asd123sx23xdacsx.top",
-        "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
-        "updateId": "38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7",
+        "host": "https://45.150.167.18:8000",
+        "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
+        "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
         "deviceBrand": "vivo",
         "deviceModel": "V2309A",
-        "pkg": "com.sunshine.tv",
-        "sk": "SK-thanks",
-        "ver": "6"
-      }
-    },
-    {
-      "key": "云朵影视",
-      "name": "🌀云朵｜1920",
-      "type": 3,
-      "api": "csp_App3Q",
-      "ext": {
-        "host": "https://ds3xy2yunsa.xyz",
-        "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
-        "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.tvcloud.io",
-        "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
+        "pkg": "com.damahou.tv",
+        "sk": "SK-woniu-thanks",
         "ver": "1"
       }
-    },
-    {
-      "key": "飞娱影视",
-      "name": "🌀飞娱｜1920",
-      "type": 3,
-      "api": "csp_Feiyu"
     },
     {
       "key": "天堂",
@@ -527,55 +486,35 @@
       "key": "七猫短剧",
       "name": "🎬七猫｜短剧",
       "type": 3,
-      "api": "csp_QimaoDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "api": "csp_ShortQimao",
       "genre": "shortdrama"
     },
     {
       "key": "河马短剧",
       "name": "🎬河马｜短剧",
       "type": 3,
-      "api": "csp_HemaDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "api": "csp_ShortHema",
       "genre": "shortdrama"
     },
     {
       "key": "围观短剧",
       "name": "🎬围观｜短剧",
       "type": 3,
-      "api": "csp_WeiguanDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "api": "csp_ShortWeiguan",
       "genre": "shortdrama"
     },
     {
       "key": "好看短剧",
       "name": "🎬好看｜短剧",
       "type": 3,
-      "api": "csp_HaokanDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "api": "csp_ShortHaokan",
       "genre": "shortdrama"
     },
     {
       "key": "星芽短剧",
       "name": "🎬星芽｜短剧",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/星芽短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "api": "csp_ShortXingya",
       "genre": "shortdrama"
     },
     {
@@ -626,9 +565,7 @@
         "site": [
           "http://tvpanpan.site",
           "http://feimo.fun",
-          "http://xiaocgege.shop",
-          "http://www.xiaocgege.shop",
-          "https://www.xiaocge.fun"
+          "https://www.mmpanpan.site"
         ]
       }
     },
@@ -658,8 +595,9 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://mihdr.top",
-          "https://www.miqk.cc",
+          "https://sp.zzzy.shop",
+          "https://www.zhizhen8.click",
+          "https://www.zhizhen1.top",
           "https://www.mihdr.top"
         ]
       }
@@ -710,11 +648,9 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.2xiaopan.top",
-          "https://2xiaopan.top",
-          "https://www.erxiaozhan.top",
-          "https://www.2xiaozhan.top",
-          "https://wexwp.cc"
+          "http://www.wexwp.cc",
+          "https://www.2xiaopan.one",
+          "https://www.wexwp.cc"
         ]
       }
     },
@@ -755,21 +691,6 @@
       "api": "csp_ShuangXing",
       "style": {
         "type": "list"
-      }
-    },
-    {
-      "key": "鸭社",
-      "name": "🌐鸭社｜4K自扫",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://www.guangyashe.top"
-        ]
       }
     },
     {
@@ -931,8 +852,19 @@
       "key": "巴士动漫",
       "name": "🌈巴士｜动漫",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/巴士动漫.png"
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA#Accept$text/html#accept-language$zh-CN,zh;q=0.8",
+        "分类url": "https://dmbus.cc/show-{cateId}--{by}-{class}--{year}-{catePg}.html",
+        "分类": "国漫$1#日漫$2#欧美动漫$3#电影$4",
+        "数组": "class=\"item\">&&</li>",
+        "简介": "剧情：&&</p>",
+        "标题": "title=\"&&在线观看\"",
+        "副标题": "desc\">&&</span>",
+        "图片": "data-bg=\"&&\"",
+        "搜索url": "https://dmbus.cc/s----------.html?wd={wd}",
+        "倒序": "1"
+      }
     },
     {
       "key": "荐片",
@@ -964,6 +896,9 @@
       "key": "爱听音乐",
       "name": "📻爱听｜音乐",
       "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/爱听音乐.py"
     },
     {
@@ -973,18 +908,12 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/tlm.js"
     },
     {
-      "key": "世界听书",
-      "name": "📻世界｜听书",
-      "type": 3,
-      "api": "csp_TingShijie",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
       "key": "蜻蜓FM",
       "name": "📻蜻蜓┃FM",
       "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "api": "csp_QingtingFM",
       "style": {
         "type": "list"
@@ -1009,9 +938,9 @@
       "name": "📻戏曲｜多多",
       "type": 3,
       "api": "csp_AppLY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
@@ -1020,7 +949,10 @@
       "key": "球通体育",
       "name": "📺球通｜点播",
       "type": 3,
-      "api": "csp_QiutongTY",
+      "api": "csp_SportsQiutong",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
@@ -1029,7 +961,10 @@
       "key": "瓜子体育",
       "name": "📺瓜子｜点播",
       "type": 3,
-      "api": "csp_GuaziTY",
+      "api": "csp_SportsGuazi",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
@@ -1038,7 +973,14 @@
       "key": "网络直播",
       "name": "📺网络｜点播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/网络直播.py"
+      "api": "csp_ALLLive",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
     },
     {
       "key": "哔哩直播",
@@ -1078,7 +1020,7 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.618
       }
     },
     {
@@ -1095,7 +1037,7 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.618
       }
     },
     {
@@ -1112,7 +1054,7 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.618
       }
     },
     {
@@ -1129,7 +1071,46 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.618
+      }
+    },
+    {
+      "key": "童趣",
+      "name": "📚童趣｜教育",
+      "type": 3,
+      "api": "csp_TongQu",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
+    },
+    {
+      "key": "兔小贝",
+      "name": "📚兔小贝｜教育",
+      "type": 3,
+      "api": "csp_TuXiaoBei",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
+    },
+    {
+      "key": "贝乐虎",
+      "name": "📚贝乐虎｜教育",
+      "type": 3,
+      "api": "csp_BeiLeHu",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
       }
     },
     {
@@ -1137,21 +1118,21 @@
       "name": "📚少儿｜教育",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
-      "filterable": 1,
+      "changeable": 0,
       "ext": {
         "json": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/少儿教育.png",
         "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png"
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.618
       }
     },
     {
       "key": "小学课堂",
-      "name": "📚小学｜课堂",
+      "name": "📚小学｜教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1163,12 +1144,12 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.618
       }
     },
     {
       "key": "初中课堂",
-      "name": "📚初中｜课堂",
+      "name": "📚初中｜教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1180,12 +1161,12 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.618
       }
     },
     {
       "key": "高中课堂",
-      "name": "📚高中｜课堂",
+      "name": "📚高中｜教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1197,7 +1178,7 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.618
       }
     },
     {
@@ -1210,7 +1191,7 @@
       "changeable": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.618
       }
     },
     {
@@ -1323,7 +1304,7 @@
       "api": "csp_MiSou",
       "ext": {
         "site": [
-          "https://misoso.shop",
+          "http://gesoso.fun",
           "http://www.misoso.shop"
         ]
       }
@@ -1592,170 +1573,5 @@
     "bilibili",
     "哔 哩",
     "哔 哩 哔 哩"
-  ],
-  "ijk": [
-    {
-      "group": "软解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
-    },
-    {
-      "group": "硬解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
-    }
-  ],
-  "ads": [
-    "static-mozai.4gtv.tv"
   ]
 }
