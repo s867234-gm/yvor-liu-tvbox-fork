@@ -9,7 +9,7 @@
       "name": "测试1",
       "type": 0,
       "playerType": 2,
-      "url": "https://d.kstore.dev/download/14505/ds.png"
+      "url": "https://14505.kstore.space/ds.png"
     },
     {
       "name": "测试2",
@@ -59,7 +59,7 @@
     },
     {
       "key": "配置中心",
-      "name": "🌐配置中心｜9.03版",
+      "name": "🌐配置中心｜9.17版",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
