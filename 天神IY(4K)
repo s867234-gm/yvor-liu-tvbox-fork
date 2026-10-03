@@ -9,7 +9,7 @@
       "name": "测试1",
       "type": 0,
       "playerType": 2,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ds.png"
+      "url": "https://14505.kstore.space/ds.png"
     },
     {
       "name": "测试2",
@@ -22,9 +22,8 @@
     {
       "name": "测试3",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "url": "http://45.192.97.170:6001/txt"
     },
     {
       "name": "无意云空间",
@@ -48,15 +47,19 @@
           "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|3弹幕源1",
           "https://danmu.qianting168.com/456765847636987622146901|3弹幕源2",
           "https://dm.ljiaovm.com/luosen|3弹幕源3",
-          "https://danm.lubao2.de5.net/87654321|3弹幕源4",
-          "https://justdanmu.irisnb.com/iris-danmu|0弹幕源5"
+          "https://danmu.longemby.com/lilyemby|3弹幕源4",
+          "https://justdanmu.irisnb.com/iris-danmu|0弹幕源5",
+          "https://dandan.wenjian.de/wenjian|3弹幕源6",
+          "https://danmu.cynn.top/cynnsq|3弹幕源7",
+          "https://dmfl.us.ci/|3弹幕源8",
+          "https://danmu.0000996.xyz/|3弹幕源9"
         ],
         "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yins.png"
       }
     },
     {
       "key": "配置中心",
-      "name": "🌐配置中心｜7.17版",
+      "name": "🌐配置中心｜9.17版",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -64,50 +67,7 @@
       "indexs": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "山楂",
-      "name": "♨️山楂｜4K线路",
-      "type": 3,
-      "api": "csp_PianKu8"
-    },
-    {
-      "key": "橘汁",
-      "name": "♨️橘汁｜4K线路",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "橘汁",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.lxf.snzlcgtzxyx",
-        "host": "",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "3.0.2.1",
-        "decrypt": "1"
-      }
-    },
-    {
-      "key": "枫叶影视",
-      "name": "♨️枫叶2｜4K线路",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "手机",
-        "简介": "text cor3\">[*],&&</div>",
-        "图片": "data-src=\"&&\"[替换:amp;>>空]",
-        "主页url": "https://www.cd-zj.com/label/qq.html",
-        "副标题": "ft2\">&&</i>",
-        "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
-        "播放数组": "anthology-list-play size\">&&</ul>",
-        "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+        "ratio": 1.618
       }
     },
     {
@@ -124,23 +84,6 @@
           "https://www.wogg.net",
           "https://wogg.xxooo.cf",
           "https://woggpan.xxooo.cf"
-        ]
-      }
-    },
-    {
-      "key": "至臻",
-      "name": "🌐至臻｜4K自扫",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://mihdr.top",
-          "https://www.miqk.cc",
-          "https://www.mihdr.top"
         ]
       }
     },
@@ -173,28 +116,6 @@
         "init": "V122",
         "api": 2,
         "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "百度短剧",
-      "name": "🎬百度丨短剧",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bddj.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "IY音乐台",
-      "name": "📻IY音乐台｜爱上音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/iyyy.png"
       }
     },
     {
