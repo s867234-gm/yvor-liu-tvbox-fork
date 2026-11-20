@@ -35,22 +35,16 @@
       "index": 1,
       "ext": {
         "apiUrls": [
-          "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|3弹幕源1",
-          "https://danmu.qianting168.com/456765847636987622146901|3弹幕源2",
-          "https://dm.ljiaovm.com/luosen|3弹幕源3",
-          "https://danmu.longemby.com/lilyemby|3弹幕源4",
-          "https://justdanmu.irisnb.com/iris-danmu|0弹幕源5",
-          "https://dandan.wenjian.de/wenjian|3弹幕源6",
-          "https://danmu.cynn.top/cynnsq|3弹幕源7",
-          "https://dmfl.us.ci/|3弹幕源8",
-          "https://danmu.0000996.xyz/|3弹幕源9"
+          "https://danmu.qianting168.com/456765847636987622146901|3弹幕源1",
+          "https://dandan.wenjian.de/wenjian|3弹幕源2",
+          "https://danmu.cynn.top/cynnsq|3弹幕源3"
         ],
         "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yins.png"
       }
     },
     {
       "key": "配置中心",
-      "name": "🌐配置中心｜10.17版｜先扫网盘才可看自扫站源",
+      "name": "🌐配置中心｜11.17版｜先扫网盘才可看自扫站源",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
